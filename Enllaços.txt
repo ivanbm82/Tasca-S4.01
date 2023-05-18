@@ -1,0 +1,5 @@
+https://www.baeldung.com/spring-request-param
+https://www.baeldung.com/spring-optional-path-variables
+https://www.baeldung.com/spring-requestparam-vs-pathvariable
+https://learning.postman.com/docs/getting-started/sending-the-first-request
+https://www.youtube.com/watch?v=9I9U5-WUrDo
